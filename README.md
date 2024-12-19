@@ -16,7 +16,7 @@ The stakeholders for this comprehensive market research report are as follows:
 - **Data Analytics Team at AtliQ Motors** responsible for gathering, analyzing, and interpreting market data to provide actionable insights and support the objectives of this study.
 
 ## **``Data Source``**:
-The dataset has been sourced from the Codebasics website in partnership with their collaborator, who provides open access to the public for data analysis and insight generation, making it a valuable educational resource. I have obtained additional data to support and broaden the scope of this analysis. You can access the data here
+The dataset has been sourced from the Codebasics website in partnership with their collaborator, who provides open access to the public for data analysis and insight generation, making it a valuable educational resource. You can access the data [here](https://codebasics.io/challenge/codebasics-resume-project-challenge). I have obtained additional data to support and broaden the scope of this analysis.
 
 ## **``Data Description``**:
 The dataset for this project comprises three CSV files: (1) Date Dimension Table, (2) Electric Vehicle Sales by Manufacturer, and (3) Electric Vehicle Sales by State. Covering a period from March 1, 2021, to March 31, 2024, the data spans three consecutive years and is structured to align with the Indian fiscal year, which runs from April 1 to March 31. The data is organized to facilitate analysis for extracting meaningful insights.
