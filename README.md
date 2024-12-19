@@ -1,4 +1,4 @@
-# **AtliQ Motors Data Analysis Project Codebasics Resume Challenge 12  (Unguided Project)** 
+# **AtliQ Motors Data Analysis Codebasics Resume Project Challenge 12  (Unguided Project)** 
 ## Author:          Aftab Ahmad
 ## Date:            18 December, 2024
 ## Contact:         aftabajk@gmail.com
