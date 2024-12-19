@@ -11,8 +11,9 @@ AtliQ Motors aims to expand its market share in India’s rapidly growing EV sec
 
 ### **Stakeholders**:
 The stakeholders for this comprehensive market research report are as follows:
-•	Bruce Haryali, Chief of AtliQ Motors India, who requires a thorough market study of the existing EV and hybrid vehicle market in India to inform future strategic initiatives.
-•	Data Analytics Team at AtliQ Motors, responsible for gathering, analyzing, and interpreting market data to provide actionable insights and support the objectives of this study.
+
+- **Bruce Haryali** Chief of AtliQ Motors India, who requires a thorough market study of the existing EV and hybrid vehicle market in India to inform future strategic initiatives.
+- **Data Analytics Team at AtliQ Motors** responsible for gathering, analyzing, and interpreting market data to provide actionable insights and support the objectives of this study.
 
 ## **``Data Source``**:
 The dataset has been sourced from the Codebasics website in partnership with their collaborator, who provides open access to the public for data analysis and insight generation, making it a valuable educational resource. I have obtained additional data to support and broaden the scope of this analysis. You can access the data here
