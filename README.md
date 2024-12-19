@@ -209,5 +209,7 @@ The analysis of AtliQ Motors' electric vehicle market data highlights key trends
 
 The recommendations outlined aim to enhance decision-making across product development, marketing strategies, and operational efficiencies. Implementing these strategies can help AtliQ Motors establish a competitive edge in the growing electric vehicle market.
 
+Thank you for taking the time to read my analysis report on AtliQ Motors.
+
 I would greatly appreciate your feedback and suggestions regarding this analysis report on AtliQ Motors' electric vehicle market. Your input is invaluable in helping me refine and improve my work. Please feel free to share your thoughts by emailing me at **aftabajk@gmail.com** or connecting with me on [LinkedIn](https://www.linkedin.com/in/aftab-ahmad-data-analyst/)
 
